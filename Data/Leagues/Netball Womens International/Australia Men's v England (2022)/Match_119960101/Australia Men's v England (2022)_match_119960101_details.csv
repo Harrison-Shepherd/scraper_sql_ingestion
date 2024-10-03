@@ -1,0 +1,25 @@
+rebounds,turnoverHeld,centrePassToGoalPerc,penalties,deflectionWithNoGain,generalPlayTurnovers,interceptPassThrown,gain,points,goalMisses,blocked,deflectionWithGain,goalAssists,tossUpWin,centrePassReceives,obstructionPenalties,feeds,playerId,goals,offsides,secondPhaseReceive,badPasses,breaks,blocks,badHands,missedGoalTurnover,squadId,deflectionPossessionGain,possessionChanges,startingPositionCode,goalAttempts,contactPenalties,quartersPlayed,minutesPlayed,feedWithAttempt,unforcedTurnovers,pickups,currentPositionCode,gainToGoalPerc,intercepts,shortDisplayName,firstname,surname,displayName,squadName,homeId,awayId,opponent,round,fixtureId,sportId,matchId
+3,0,0,2,0,1,0,0,25,3,0,0,1,0,0,0,2,1030095,25,0,4,0,0,0,0,0,9490,0,1,GS,28,2,3,30,1,1,0,-,0,0,"Stechiwskyi, A",Anton,Stechiwskyi,A.Stechiwskyi,Australia,9490,9492,England,1,11996,10,119960101
+2,1,0,2,0,3,1,0,13,4,0,0,7,0,9,0,10,1030102,13,0,3,0,0,0,1,1,9490,0,4,GA,17,2,3,36,8,2,2,GS,0,0,"Lee, E",Eugene,Lee,E.Lee,Australia,9490,9492,England,1,11996,10,119960101
+0,0,0,6,2,2,1,1,0,0,0,1,18,0,10,3,29,1030105,0,0,11,1,0,0,0,0,9490,1,2,WA,0,3,3,44,20,1,1,-,0,0,"Forcadilla, L",Liam,Forcadilla,L.Forcadilla,Australia,9490,9492,England,1,11996,10,119960101
+0,0,0,7,2,7,2,3,0,0,0,1,20,0,3,0,25,1030106,0,2,6,0,0,0,1,0,9490,1,7,C,0,7,4,57,21,3,4,WA,0,2,"Richardson, R",Riley,Richardson,R.Richardson,Australia,9490,9492,England,1,11996,10,119960101
+0,0,0,4,2,1,0,3,0,0,0,0,0,0,4,0,0,1030101,0,0,6,0,0,0,0,0,9490,0,1,WD,0,4,4,59,0,0,4,WD,0,3,"Nexhip, D",Dylan,Nexhip,D.Nexhip,Australia,9490,9492,England,1,11996,10,119960101
+1,0,0,5,3,3,2,1,0,0,0,0,0,0,2,3,0,1030108,0,0,0,0,0,0,0,0,9490,0,3,GD,0,2,2,29,0,1,1,-,0,0,"Glassie, T",Taylor,Glassie,T.Glassie,Australia,9490,9492,England,1,11996,10,119960101
+3,0,0,1,3,1,0,8,0,0,0,3,0,0,0,0,0,1030099,0,0,0,0,0,0,0,0,9490,3,1,GK,0,1,3,37,0,1,0,-,0,2,"Lee-Tauroa, D",Dravyn,Lee-Tauroa,D.Lee-Tauroa,Australia,9490,9492,England,1,11996,10,119960101
+0,0,0,1,2,4,2,0,12,1,0,0,10,0,12,0,15,1030096,12,0,3,0,0,0,0,0,9490,0,4,-,13,1,2,30,11,1,0,GA,0,0,"Roberts, B",Brodie,Roberts,B.Roberts,Australia,9490,9492,England,1,11996,10,119960101
+1,0,0,0,1,0,0,0,23,0,0,0,1,0,0,0,2,1030104,23,0,1,0,0,0,0,0,9490,0,0,-,23,0,2,22,1,0,0,-,0,0,"Carter, L",Lachlan,Carter,L.Carter,Australia,9490,9492,England,1,11996,10,119960101
+0,0,0,1,2,2,1,0,0,0,0,0,10,0,0,0,16,1030107,0,0,1,0,0,0,0,0,9490,0,2,-,0,1,2,17,11,0,2,C,0,0,"Burton, S",Stewart,Burton,S.Burton,Australia,9490,9492,England,1,11996,10,119960101
+3,0,0,6,3,0,0,6,0,0,0,0,0,0,0,2,0,1030097,0,0,0,0,0,0,0,0,9490,0,0,-,0,4,2,22,0,0,0,GK,0,3,"Price, C",Callum,Price,C.Price,Australia,9490,9492,England,1,11996,10,119960101
+2,0,0,6,1,3,0,5,0,0,0,1,0,0,4,1,0,1030109,0,1,2,0,0,0,1,0,9490,1,3,-,0,5,2,30,0,3,1,GD,0,2,"Malmo, T",Tim,Malmo,T.Malmo,Australia,9490,9492,England,1,11996,10,119960101
+2,0,0,1,0,4,0,0,13,4,0,0,0,0,0,0,1,1030565,13,0,1,0,0,0,3,4,9492,0,8,GS,17,1,3,42,0,4,1,-,0,0,"Keeling, L",Lewis,Keeling,L.Keeling,England,9490,9492,Australia,1,11996,10,119960101
+1,0,0,2,0,1,0,1,4,2,0,1,1,0,2,1,1,1030562,4,0,0,0,0,0,1,1,9492,1,2,GA,6,1,3,14,1,1,0,GS,0,0,"Firminger, J",James,Firminger,J.Firminger,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,3,0,6,3,0,1,0,0,0,3,0,12,1,11,1030564,1,0,3,2,0,0,0,0,9492,0,6,WA,1,2,4,43,8,2,1,-,0,0,"Green, C",Chris,Green,C.Green,England,9490,9492,Australia,1,11996,10,119960101
+0,2,0,12,2,7,2,2,0,0,0,0,10,0,2,0,15,1030573,0,1,10,0,0,0,1,0,9492,0,7,C,0,12,4,59,13,5,2,C,0,2,"Thomson-Boston, J",James,Thomson-Boston,J.Thomson-Boston,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,10,4,1,1,0,0,0,0,0,0,0,6,1,0,1030569,0,0,2,0,0,0,0,0,9492,0,1,WD,0,9,4,46,0,0,5,GD,0,0,"O'Connor, J",James,O'Connor,J.O'Connor,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,5,9,3,0,3,4,2,0,1,1,0,7,2,2,1030568,4,1,9,0,0,0,1,1,9492,1,4,GD,6,3,4,59,3,3,1,GA,0,2,"Nicholson, J",Jamal,Nicholson,J.Nicholson,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,16,6,2,0,7,0,0,0,3,0,0,3,3,0,1030567,0,1,3,1,0,0,0,0,9492,3,2,GK,0,13,3,39,0,2,2,-,0,4,"McClelland, J",James,McClelland,J.McClelland,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,8,1,1,0,2,0,0,0,1,0,0,0,0,0,1030561,0,0,1,0,0,0,0,0,9492,1,1,-,0,8,4,34,0,1,0,GK,0,1,"Allan, R",Ryan,Allan,R.Allan,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,0,0,2,0,0,0,0,0,0,1,0,2,0,3,1030563,0,0,2,0,0,0,1,0,9492,0,2,-,0,0,2,13,2,1,1,-,0,0,"Gray, C",Charlie,Gray,C.Gray,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1030572,0,0,1,0,0,0,0,0,9492,0,0,-,0,1,1,2,0,0,0,WD,0,0,"Speck, K",Klem,Speck,K.Speck,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,0,0,5,3,0,2,1,0,0,2,0,6,0,8,1030571,2,0,2,1,0,0,0,0,9492,0,5,-,3,0,2,20,4,1,2,WA,0,0,"Owen, L",Luke,Owen,L.Owen,England,9490,9492,Australia,1,11996,10,119960101
+0,0,0,3,2,7,3,0,3,8,0,0,5,0,5,0,8,1030574,3,0,7,0,0,0,1,6,9492,0,13,-,11,3,4,42,7,3,0,-,0,0,"Williams, D",Damian,Williams,D.Williams,England,9490,9492,Australia,1,11996,10,119960101

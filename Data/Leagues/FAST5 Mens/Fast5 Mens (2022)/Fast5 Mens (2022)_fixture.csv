@@ -1,0 +1,4 @@
+periodSecs,awaySquadName,matchType,homeSquadId,homeSquadShortCode,homeSquadNickname,matchStatus,roundNumber,homeSquadName,awaySquadNickname,venueId,awaySquadId,venueCode,localStartTime,matchId,homeSquadScore,period,finalCode,periodCompleted,finalShortCode,awaySquadScore,venueName,utcStartTime,awaySquadCode,homeSquadCode,awaySquadShortCode,matchNumber,sportId,fixtureId
+360,England,H,9526,AUSMF5,Australia,complete,1,Australia,England,806,9528,CHR,2022-11-05T14:45:00+13:00,120550101,29,4,,4,,20,Christchurch Arena,2022-11-05T01:45:00Z,ENGMF5,AUSMF5,ENGMF5,1,5,12055
+360,Australia,H,9527,NZMF5,New Zealand,complete,1,New Zealand,Australia,806,9526,CHR,2022-11-05T18:30:00+13:00,120550102,24,4,,4,,31,Christchurch Arena,2022-11-05T05:30:00Z,AUSMF5,NZMF5,AUSMF5,2,5,12055
+360,England,H,9527,NZMF5,New Zealand,complete,1,New Zealand,England,806,9528,CHR,2022-11-06T14:15:00+13:00,120550103,36,4,,4,,22,Christchurch Arena,2022-11-06T01:15:00Z,ENGMF5,NZMF5,ENGMF5,3,5,12055

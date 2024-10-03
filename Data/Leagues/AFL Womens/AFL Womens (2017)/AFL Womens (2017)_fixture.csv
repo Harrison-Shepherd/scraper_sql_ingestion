@@ -1,0 +1,29 @@
+periodSecs,awaySquadName,matchType,homeSquadId,homeSquadShortCode,homeSquadNickname,matchStatus,roundNumber,homeSquadName,homeSquadGoals,awaySquadNickname,venueId,awaySquadId,venueCode,localStartTime,matchId,homeSquadScore,period,finalCode,periodCompleted,finalShortCode,awaySquadScore,venueName,awaySquadGoals,utcStartTime,awaySquadCode,awaySquadBehinds,homeSquadCode,awaySquadShortCode,homeSquadBehinds,matchNumber,sportId,fixtureId
+946,Collingwood,H,8096,CARL,Blues,complete,1,Carlton,7,Magpies,50,8097,IKP,2017-02-03T19:45:00+11:00,100640101,46,4,,4,,11,Ikon Park,1,2017-02-03T08:45:00Z,COFC,5,CFC,COLL,4,1,2,10064
+989,GWS Giants,H,8098,ADEL,Crows,complete,1,Adelaide Crows,0,Giants,335,7889,TBT,2017-02-04T16:35:00+10:30,100640102,48,4,,4,,12,Thebarton Oval,0,2017-02-04T06:05:00Z,GWS,0,AFC,GWS,0,2,2,10064
+945,Fremantle,H,7387,WB,Bulldogs,complete,1,Western Bulldogs,0,Dockers,110,7886,VUW,2017-02-04T19:40:00+11:00,100640103,44,4,,4,,12,VU Whitten Oval,0,2017-02-04T08:40:00Z,FRFC,0,WBFC,FRE,0,3,2,10064
+986,Brisbane Lions,H,7386,MELB,Demons,complete,1,Melbourne,0,Lions,371,7887,CAS,2017-02-05T17:05:00+11:00,100640104,10,4,,4,,25,Casey Fields,0,2017-02-05T06:05:00Z,BFC,0,MFC,BL,0,4,2,10064
+950,Adelaide Crows,H,7387,WB,Bulldogs,complete,2,Western Bulldogs,0,Crows,110,8098,VUW,2017-02-10T19:35:00+11:00,100640201,23,4,,4,,48,VU Whitten Oval,0,2017-02-10T08:35:00Z,AFC,0,WBFC,ADEL,0,1,2,10064
+1048,GWS Giants,H,8096,CARL,Blues,complete,2,Carlton,7,Giants,50,7889,IKP,2017-02-11T15:35:00+11:00,100640202,47,4,,4,,34,Ikon Park,0,2017-02-11T04:35:00Z,GWS,0,CFC,GWS,4,2,2,10064
+1230,Melbourne,H,8097,COLL,Magpies,complete,2,Collingwood,1,Demons,50,7386,IKP,2017-02-11T19:40:00+11:00,100640203,25,4,,4,,44,Ikon Park,0,2017-02-11T08:40:00Z,MFC,0,COFC,MELB,5,3,2,10064
+973,Brisbane Lions,H,7886,FRE,Dockers,complete,2,Fremantle,0,Lions,194,7887,FRE,2017-02-12T16:05:00+08:00,100640204,23,4,,4,,36,Fremantle Oval,0,2017-02-12T08:05:00Z,BFC,0,FRFC,BL,0,4,2,10064
+1068,Fremantle,H,7889,GWS,Giants,complete,3,GWS Giants,0,Dockers,402,7886,BISP,2017-02-18T12:05:00+11:00,100640301,43,4,,4,,43,Blacktown International Sportspark,0,2017-02-18T01:05:00Z,FRFC,0,GWS,FRE,0,1,2,10064
+1002,Collingwood,H,7887,BL,Lions,complete,3,Brisbane Lions,0,Magpies,2789,8097,SPSC,2017-02-18T15:35:00+10:00,100640302,27,4,,4,,23,South Pine Sports Complex,1,2017-02-18T05:35:00Z,COFC,5,BFC,COLL,0,2,2,10064
+996,Melbourne,H,7387,WB,Bulldogs,complete,3,Western Bulldogs,0,Demons,110,7386,VUW,2017-02-18T19:40:00+11:00,100640303,29,4,,4,,43,VU Whitten Oval,0,2017-02-18T08:40:00Z,MFC,0,WBFC,MELB,0,3,2,10064
+965,Carlton,H,8098,ADEL,Crows,complete,3,Adelaide Crows,0,Blues,335,8096,TBT,2017-02-19T11:35:00+10:30,100640304,17,4,,4,,14,Thebarton Oval,7,2017-02-19T01:05:00Z,CFC,4,AFC,CARL,0,4,2,10064
+1041,Carlton,H,7386,MELB,Demons,complete,4,Melbourne,0,Blues,371,8096,CAS,2017-02-25T11:35:00+11:00,100640401,42,4,,4,,36,Casey Fields,7,2017-02-25T00:35:00Z,CFC,4,MFC,CARL,0,1,2,10064
+1027,GWS Giants,H,7887,BL,Lions,complete,4,Brisbane Lions,0,Giants,2789,7889,SPSC,2017-02-25T15:35:00+10:00,100640402,43,4,,4,,9,South Pine Sports Complex,0,2017-02-25T05:35:00Z,GWS,0,BFC,GWS,0,2,2,10064
+1013,Collingwood,H,7387,WB,Bulldogs,complete,4,Western Bulldogs,0,Magpies,110,8097,VUW,2017-02-25T19:10:00+11:00,100640403,25,4,,4,,32,VU Whitten Oval,1,2017-02-25T08:10:00Z,COFC,5,WBFC,COLL,0,3,2,10064
+1035,Adelaide Crows,H,7886,FRE,Dockers,complete,4,Fremantle,0,Crows,194,8098,FRE,2017-02-26T16:05:00+08:00,100640404,23,4,,4,,46,Fremantle Oval,0,2017-02-26T08:05:00Z,AFC,0,FRFC,ADEL,0,4,2,10064
+922,Melbourne,H,7889,GWS,Giants,complete,5,GWS Giants,0,Demons,402,7386,BISP,2017-03-03T17:05:00+11:00,100640501,20,4,,4,,15,Blacktown International Sportspark,0,2017-03-03T06:05:00Z,MFC,0,GWS,MELB,0,1,2,10064
+907,Collingwood,H,7886,FRE,Dockers,complete,5,Fremantle,0,Magpies,330,8097,RTP,2017-03-04T10:35:00+08:00,100640503,31,4,,4,,32,Rushton Park,1,2017-03-04T02:35:00Z,COFC,5,FRFC,COLL,0,3,2,10064
+1045,Western Bulldogs,H,8096,CARL,Blues,complete,5,Carlton,7,Bulldogs,50,7387,IKP,2017-03-04T11:35:00+11:00,100640502,54,4,,4,,48,Ikon Park,0,2017-03-04T00:35:00Z,WBFC,0,CFC,WB,4,2,2,10064
+989,Brisbane Lions,H,8098,ADEL,Crows,complete,5,Adelaide Crows,0,Lions,374,7887,NOW,2017-03-04T18:40:00+10:30,100640504,30,4,,4,,33,Norwood Oval,0,2017-03-04T08:10:00Z,BFC,0,AFC,BL,0,4,2,10064
+946,Carlton,H,7886,FRE,Dockers,complete,6,Fremantle,0,Blues,70,8096,DS,2017-03-10T15:05:00+08:00,100640601,43,4,,4,,27,Domain Stadium,7,2017-03-10T07:05:00Z,CFC,4,FRFC,CARL,0,1,2,10064
+986,Western Bulldogs,H,7887,BL,Lions,complete,6,Brisbane Lions,0,Bulldogs,2789,7387,SPSC,2017-03-11T10:05:00+10:00,100640602,23,4,,4,,16,South Pine Sports Complex,0,2017-03-11T00:05:00Z,WBFC,0,BFC,WB,0,2,2,10064
+1032,Melbourne,H,8098,ADEL,Crows,complete,6,Adelaide Crows,0,Demons,160,7386,TIO,2017-03-11T17:40:00+09:30,100640603,32,4,,4,,34,TIO Stadium,0,2017-03-11T08:10:00Z,MFC,0,AFC,MELB,0,3,2,10064
+1065,GWS Giants,H,8097,COLL,Magpies,complete,6,Collingwood,1,Giants,24,7889,OPO,2017-03-12T11:05:00+11:00,100640604,55,4,,4,,19,Olympic Park Oval,0,2017-03-12T00:05:00Z,GWS,0,COFC,GWS,5,4,2,10064
+945,Fremantle,H,7386,MELB,Demons,complete,7,Melbourne,0,Dockers,371,7886,CAS,2017-03-18T16:35:00+11:00,100640701,70,4,,4,,16,Casey Fields,0,2017-03-18T05:35:00Z,FRFC,0,MFC,FRE,0,1,2,10064
+1039,Western Bulldogs,H,7889,GWS,Giants,complete,7,GWS Giants,0,Bulldogs,150,7387,MO,2017-03-18T19:10:00+11:00,100640702,20,4,,4,,52,Manuka Oval,0,2017-03-18T08:10:00Z,WBFC,0,GWS,WB,0,2,2,10064
+1189,Adelaide Crows,H,8097,COLL,Magpies,complete,7,Collingwood,1,Crows,24,8098,OPO,2017-03-19T13:35:00+11:00,100640703,46,4,,4,,70,Olympic Park Oval,0,2017-03-19T02:35:00Z,AFC,0,COFC,ADEL,5,3,2,10064
+1163,Brisbane Lions,H,8096,CARL,Blues,complete,7,Carlton,7,Lions,50,7887,IKP,2017-03-19T15:35:00+11:00,100640704,37,4,,4,,37,Ikon Park,0,2017-03-19T04:35:00Z,BFC,0,CFC,BL,4,4,2,10064

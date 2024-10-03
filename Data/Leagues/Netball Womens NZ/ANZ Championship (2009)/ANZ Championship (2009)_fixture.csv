@@ -1,0 +1,66 @@
+periodSecs,awaySquadName,matchType,homeSquadId,homeSquadShortCode,homeSquadNickname,matchStatus,roundNumber,homeSquadName,awaySquadNickname,venueId,awaySquadId,venueCode,localStartTime,matchId,homeSquadScore,period,finalCode,periodCompleted,finalShortCode,awaySquadScore,venueName,utcStartTime,awaySquadCode,homeSquadCode,awaySquadShortCode,matchNumber,sportId,fixtureId
+904,Central Pulse,H,808,STE,Steel,complete,1,Southern Steel,Pulse,813,803,SOU,2009-04-04T14:00:00+13:00,80050101,55,4,,4,,46,ILT Stadium Southland,2009-04-04T01:00:00Z,PUL,STE,PUL,1,8,8005
+908,West Coast Fever,H,804,VIX,Vixens,complete,1,Melbourne Vixens,Fever,807,810,STA,2009-04-04T14:00:00+11:00,80050102,57,4,,4,,44,State Netball Hockey Centre,2009-04-04T03:00:00Z,FEV,VIX,FEV,2,8,8005
+902,Adelaide Thunderbirds,H,807,FIR,Firebirds,complete,1,Queensland Firebirds,Thunderbirds,802,801,BCE,2009-04-05T14:30:00+10:00,80050103,48,4,,4,,60,Brisbane Convention & Exhibition Centre,2009-04-05T04:30:00Z,THU,FIR,THU,3,8,8005
+911,Avis WBOP Magic,H,805,MYS,Mystics,complete,1,Northern Mystics,Magic,803,809,TRU,2009-04-06T19:00:00+12:00,80050104,38,4,,4,,51,The Trusts Arena,2009-04-06T07:00:00Z,WBM,MYS,WBM,4,8,8005
+904,Mainland Tactix,H,806,SWI,Swifts,complete,1,NSW Swifts,Tactix,816,802,OLY,2009-04-06T19:00:00+10:00,80050105,62,4,,4,,45,Sydney Olympic Park Sports Centre,2009-04-06T09:00:00Z,TAC,SWI,TAC,5,8,8005
+907,Southern Steel,H,809,WBM,Magic,complete,2,Avis WBOP Magic,Steel,822,808,QEY,2009-04-11T14:00:00+12:00,80050201,54,4,,4,,47,Queen Elizabeth Youth Centre,2009-04-11T02:00:00Z,STE,WBM,STE,1,8,8005
+900,NSW Swifts,H,801,THU,Thunderbirds,complete,2,Adelaide Thunderbirds,Swifts,812,806,ETS,2009-04-12T14:00:00+09:30,80050202,48,4,,4,,47,Netball SA Stadium,2009-04-12T04:30:00Z,SWI,THU,SWI,2,8,8005
+908,Central Pulse,H,805,MYS,Mystics,complete,2,Northern Mystics,Pulse,817,803,NSH,2009-04-12T18:30:00+12:00,80050203,54,4,,4,,50,North Shore Events Centre,2009-04-12T06:30:00Z,PUL,MYS,PUL,3,8,8005
+910,West Coast Fever,H,802,TAC,Tactix,complete,2,Mainland Tactix,Fever,806,810,CBS,2009-04-13T19:00:00+12:00,80050204,52,4,,4,,44,CBS Canterbury Arena,2009-04-13T07:00:00Z,FEV,TAC,FEV,4,8,8005
+904,Melbourne Vixens,H,807,FIR,Firebirds,complete,2,Queensland Firebirds,Vixens,802,804,BCE,2009-04-13T19:00:00+10:00,80050205,51,4,,4,,54,Brisbane Convention & Exhibition Centre,2009-04-13T09:00:00Z,VIX,FIR,VIX,5,8,8005
+2565,Queensland Firebirds,H,803,PUL,Pulse,complete,3,Central Pulse,Firebirds,801,807,TBS,2009-04-18T14:00:00+12:00,80050301,46,4,,4,,58,TSB Bank Arena,2009-04-18T02:00:00Z,FIR,PUL,FIR,1,8,8005
+915,Melbourne Vixens,H,801,THU,Thunderbirds,complete,3,Adelaide Thunderbirds,Vixens,812,804,ETS,2009-04-19T14:00:00+09:30,80050302,43,4,,4,,49,Netball SA Stadium,2009-04-19T04:30:00Z,VIX,THU,VIX,2,8,8005
+909,Mainland Tactix,H,808,STE,Steel,complete,3,Southern Steel,Tactix,815,802,EDC,2009-04-19T18:30:00+12:00,80050303,52,4,,4,,48,Edgar Centre,2009-04-19T06:30:00Z,TAC,STE,TAC,3,8,8005
+912,Northern Mystics,H,810,FEV,Fever,complete,3,West Coast Fever,Mystics,808,805,CHA,2009-04-20T17:00:00+08:00,80050305,57,4,,4,,46,Challenge Stadium,2009-04-20T09:00:00Z,MYS,FEV,MYS,5,8,8005
+916,NSW Swifts,H,809,WBM,Magic,complete,3,Avis WBOP Magic,Swifts,811,806,MYS,2009-04-20T19:00:00+12:00,80050304,63,4,,4,,45,Mystery Creek Events Centre,2009-04-20T07:00:00Z,SWI,WBM,SWI,4,8,8005
+911,West Coast Fever,H,803,PUL,Pulse,complete,4,Central Pulse,Fever,814,810,MAN,2009-04-25T14:00:00+12:00,80050401,54,4,,4,,60,Arena Manawatu,2009-04-25T02:00:00Z,FEV,PUL,FEV,1,8,8005
+901,Southern Steel,H,804,VIX,Vixens,complete,4,Melbourne Vixens,Steel,807,808,STA,2009-04-25T14:00:00+10:00,80050402,48,4,,4,,31,State Netball Hockey Centre,2009-04-25T04:00:00Z,STE,VIX,STE,2,8,8005
+918,Avis WBOP Magic,H,807,FIR,Firebirds,complete,4,Queensland Firebirds,Magic,802,809,BCE,2009-04-26T14:30:00+10:00,80050403,53,4,,4,,42,Brisbane Convention & Exhibition Centre,2009-04-26T04:30:00Z,WBM,FIR,WBM,3,8,8005
+425,Adelaide Thunderbirds,H,802,TAC,Tactix,complete,4,Mainland Tactix,Thunderbirds,806,801,CBS,2009-04-27T19:00:00+12:00,80050404,48,6,,6,,53,CBS Canterbury Arena,2009-04-27T07:00:00Z,THU,TAC,THU,4,8,8005
+901,Northern Mystics,H,806,SWI,Swifts,complete,4,NSW Swifts,Mystics,816,805,OLY,2009-04-27T19:00:00+10:00,80050405,59,4,,4,,55,Sydney Olympic Park Sports Centre,2009-04-27T09:00:00Z,MYS,SWI,MYS,5,8,8005
+901,Avis WBOP Magic,H,802,TAC,Tactix,complete,5,Mainland Tactix,Magic,806,809,CBS,2009-05-02T14:00:00+12:00,80050501,48,4,,4,,50,CBS Canterbury Arena,2009-05-02T02:00:00Z,WBM,TAC,WBM,1,8,8005
+911,Adelaide Thunderbirds,H,804,VIX,Vixens,complete,5,Melbourne Vixens,Thunderbirds,810,801,HIS,2009-05-03T14:30:00+10:00,80050502,50,4,,4,,42,Hisense Arena,2009-05-03T04:30:00Z,THU,VIX,THU,2,8,8005
+428,NSW Swifts,H,810,FEV,Fever,complete,5,West Coast Fever,Swifts,808,806,CHA,2009-05-04T17:00:00+08:00,80050504,67,6,,6,,66,Challenge Stadium,2009-05-04T09:00:00Z,SWI,FEV,SWI,4,8,8005
+420,Northern Mystics,H,803,PUL,Pulse,complete,5,Central Pulse,Mystics,801,805,TBS,2009-05-04T19:00:00+12:00,80050503,60,6,,6,,61,TSB Bank Arena,2009-05-04T07:00:00Z,MYS,PUL,MYS,3,8,8005
+904,Central Pulse,H,809,WBM,Magic,complete,6,Avis WBOP Magic,Pulse,811,803,MYS,2009-05-09T14:00:00+12:00,80050601,59,4,,4,,36,Mystery Creek Events Centre,2009-05-09T02:00:00Z,PUL,WBM,PUL,1,8,8005
+904,Adelaide Thunderbirds,H,806,SWI,Swifts,complete,6,NSW Swifts,Thunderbirds,816,801,OLY,2009-05-10T14:30:00+10:00,80050602,40,4,,4,,51,Sydney Olympic Park Sports Centre,2009-05-10T04:30:00Z,THU,SWI,THU,2,8,8005
+908,Southern Steel,H,805,MYS,Mystics,complete,6,Northern Mystics,Steel,803,808,TRU,2009-05-11T19:00:00+12:00,80050603,52,4,,4,,61,The Trusts Arena,2009-05-11T07:00:00Z,STE,MYS,STE,3,8,8005
+902,West Coast Fever,H,807,FIR,Firebirds,complete,6,Queensland Firebirds,Fever,802,810,BCE,2009-05-11T19:00:00+10:00,80050604,56,4,,4,,53,Brisbane Convention & Exhibition Centre,2009-05-11T09:00:00Z,FEV,FIR,FEV,4,8,8005
+908,Southern Steel,H,802,TAC,Tactix,complete,7,Mainland Tactix,Steel,806,808,CBS,2009-05-16T14:00:00+12:00,80050701,47,4,,4,,48,CBS Canterbury Arena,2009-05-16T02:00:00Z,STE,TAC,STE,1,8,8005
+908,Melbourne Vixens,H,810,FEV,Fever,complete,7,West Coast Fever,Vixens,808,804,CHA,2009-05-17T12:30:00+08:00,80050702,49,4,,4,,74,Challenge Stadium,2009-05-17T04:30:00Z,VIX,FEV,VIX,2,8,8005
+918,Northern Mystics,H,809,WBM,Magic,complete,7,Avis WBOP Magic,Mystics,805,805,ROT,2009-05-18T19:00:00+12:00,80050703,50,4,,4,,35,Energy Events Centre,2009-05-18T07:00:00Z,MYS,WBM,MYS,3,8,8005
+903,Queensland Firebirds,H,806,SWI,Swifts,complete,7,NSW Swifts,Firebirds,816,807,OLY,2009-05-18T19:00:00+10:00,80050704,54,4,,4,,58,Sydney Olympic Park Sports Centre,2009-05-18T09:00:00Z,FIR,SWI,FIR,4,8,8005
+898,Central Pulse,H,802,TAC,Tactix,complete,8,Mainland Tactix,Pulse,806,803,CBS,2009-05-23T14:00:00+12:00,80050801,49,4,,4,,46,CBS Canterbury Arena,2009-05-23T02:00:00Z,PUL,TAC,PUL,1,8,8005
+930,Queensland Firebirds,H,801,THU,Thunderbirds,complete,8,Adelaide Thunderbirds,Firebirds,812,807,ETS,2009-05-24T14:00:00+09:30,80050802,51,4,,4,,50,Netball SA Stadium,2009-05-24T04:30:00Z,FIR,THU,FIR,2,8,8005
+901,Avis WBOP Magic,H,808,STE,Steel,complete,8,Southern Steel,Magic,813,809,SOU,2009-05-25T19:00:00+12:00,80050803,39,4,,4,,48,ILT Stadium Southland,2009-05-25T07:00:00Z,WBM,STE,WBM,3,8,8005
+419,NSW Swifts,H,804,VIX,Vixens,complete,8,Melbourne Vixens,Swifts,810,806,HIS,2009-05-25T19:00:00+10:00,80050804,65,6,,6,,63,Hisense Arena,2009-05-25T09:00:00Z,SWI,VIX,SWI,4,8,8005
+908,Southern Steel,H,803,PUL,Pulse,complete,9,Central Pulse,Steel,801,808,TBS,2009-05-30T14:00:00+12:00,80050901,44,4,,4,,66,TSB Bank Arena,2009-05-30T02:00:00Z,STE,PUL,STE,1,8,8005
+894,Queensland Firebirds,H,804,VIX,Vixens,complete,9,Melbourne Vixens,Firebirds,810,807,HIS,2009-05-31T14:30:00+10:00,80050902,57,4,,4,,53,Hisense Arena,2009-05-31T04:30:00Z,FIR,VIX,FIR,2,8,8005
+901,Adelaide Thunderbirds,H,810,FEV,Fever,complete,9,West Coast Fever,Thunderbirds,808,801,CHA,2009-06-01T18:00:00+08:00,80050904,41,4,,4,,61,Challenge Stadium,2009-06-01T10:00:00Z,THU,FEV,THU,4,8,8005
+909,Mainland Tactix,H,805,MYS,Mystics,complete,9,Northern Mystics,Tactix,803,802,TRU,2009-06-01T19:00:00+12:00,80050903,47,4,,4,,46,The Trusts Arena,2009-06-01T07:00:00Z,TAC,MYS,TAC,3,8,8005
+909,Northern Mystics,H,801,THU,Thunderbirds,complete,10,Adelaide Thunderbirds,Mystics,820,805,DHD,2009-06-06T13:30:00+09:30,80051002,58,4,,4,,34,Distinctive Homes Dome,2009-06-06T04:00:00Z,MYS,THU,MYS,2,8,8005
+915,Mainland Tactix,H,803,PUL,Pulse,complete,10,Central Pulse,Tactix,823,802,TRC,2009-06-06T14:00:00+12:00,80051001,45,4,,4,,59,Te Rauparaha Arena,2009-06-06T02:00:00Z,TAC,PUL,TAC,1,8,8005
+911,NSW Swifts,H,807,FIR,Firebirds,complete,10,Queensland Firebirds,Swifts,802,806,BCE,2009-06-07T14:30:00+10:00,80051003,62,4,,4,,61,Brisbane Convention & Exhibition Centre,2009-06-07T04:30:00Z,SWI,FIR,SWI,3,8,8005
+905,Southern Steel,H,810,FEV,Fever,complete,10,West Coast Fever,Steel,808,808,CHA,2009-06-08T17:00:00+08:00,80051005,59,4,,4,,48,Challenge Stadium,2009-06-08T09:00:00Z,STE,FEV,STE,5,8,8005
+923,Melbourne Vixens,H,809,WBM,Magic,complete,10,Avis WBOP Magic,Vixens,822,804,QEY,2009-06-08T19:00:00+12:00,80051004,55,4,,4,,48,Queen Elizabeth Youth Centre,2009-06-08T07:00:00Z,VIX,WBM,VIX,4,8,8005
+908,Queensland Firebirds,H,802,TAC,Tactix,complete,11,Mainland Tactix,Firebirds,806,807,CBS,2009-06-13T14:00:00+12:00,80051101,53,4,,4,,46,CBS Canterbury Arena,2009-06-13T02:00:00Z,FIR,TAC,FIR,1,8,8005
+904,West Coast Fever,H,801,THU,Thunderbirds,complete,11,Adelaide Thunderbirds,Fever,812,810,ETS,2009-06-14T14:00:00+09:30,80051102,58,4,,4,,39,Netball SA Stadium,2009-06-14T04:30:00Z,FEV,THU,FEV,2,8,8005
+904,Avis WBOP Magic,H,803,PUL,Pulse,complete,11,Central Pulse,Magic,801,809,TBS,2009-06-14T18:30:00+12:00,80051103,35,4,,4,,67,TSB Bank Arena,2009-06-14T06:30:00Z,WBM,PUL,WBM,3,8,8005
+922,Northern Mystics,H,808,STE,Steel,complete,11,Southern Steel,Mystics,813,805,SOU,2009-06-15T19:00:00+12:00,80051104,52,4,,4,,50,ILT Stadium Southland,2009-06-15T07:00:00Z,MYS,STE,MYS,4,8,8005
+900,Melbourne Vixens,H,806,SWI,Swifts,complete,11,NSW Swifts,Vixens,816,804,OLY,2009-06-15T19:00:00+10:00,80051105,52,4,,4,,63,Sydney Olympic Park Sports Centre,2009-06-15T09:00:00Z,VIX,SWI,VIX,5,8,8005
+913,Central Pulse,H,801,THU,Thunderbirds,complete,12,Adelaide Thunderbirds,Pulse,812,803,ETS,2009-06-20T13:30:00+09:30,80051202,70,4,,4,,40,Netball SA Stadium,2009-06-20T04:00:00Z,PUL,THU,PUL,2,8,8005
+901,Melbourne Vixens,H,805,MYS,Mystics,complete,12,Northern Mystics,Vixens,803,804,TRU,2009-06-20T14:00:00+12:00,80051201,57,4,,4,,61,The Trusts Arena,2009-06-20T02:00:00Z,VIX,MYS,VIX,1,8,8005
+902,West Coast Fever,H,806,SWI,Swifts,complete,12,NSW Swifts,Fever,816,810,OLY,2009-06-21T14:30:00+10:00,80051203,60,4,,4,,63,Sydney Olympic Park Sports Centre,2009-06-21T04:30:00Z,FEV,SWI,FEV,3,8,8005
+914,Mainland Tactix,H,809,WBM,Magic,complete,12,Avis WBOP Magic,Tactix,805,802,ROT,2009-06-22T19:00:00+12:00,80051204,50,4,,4,,46,Energy Events Centre,2009-06-22T07:00:00Z,TAC,WBM,TAC,4,8,8005
+906,Southern Steel,H,807,FIR,Firebirds,complete,12,Queensland Firebirds,Steel,802,808,BCE,2009-06-22T19:00:00+10:00,80051205,52,4,,4,,50,Brisbane Convention & Exhibition Centre,2009-06-22T09:00:00Z,STE,FIR,STE,5,8,8005
+908,Queensland Firebirds,H,805,MYS,Mystics,complete,13,Northern Mystics,Firebirds,803,807,TRU,2009-06-27T14:00:00+12:00,80051301,57,4,,4,,59,The Trusts Arena,2009-06-27T02:00:00Z,FIR,MYS,FIR,1,8,8005
+926,Avis WBOP Magic,H,810,FEV,Fever,complete,13,West Coast Fever,Magic,808,809,CHA,2009-06-28T12:30:00+08:00,80051302,38,4,,4,,49,Challenge Stadium,2009-06-28T04:30:00Z,WBM,FEV,WBM,2,8,8005
+899,NSW Swifts,H,803,PUL,Pulse,complete,13,Central Pulse,Swifts,823,806,TRC,2009-06-28T18:30:00+12:00,80051303,53,4,,4,,52,Te Rauparaha Arena,2009-06-28T06:30:00Z,SWI,PUL,SWI,3,8,8005
+908,Adelaide Thunderbirds,H,808,STE,Steel,complete,13,Southern Steel,Thunderbirds,815,801,EDC,2009-06-29T19:00:00+12:00,80051304,58,4,,4,,49,Edgar Centre,2009-06-29T07:00:00Z,THU,STE,THU,4,8,8005
+903,Mainland Tactix,H,804,VIX,Vixens,complete,13,Melbourne Vixens,Tactix,810,802,HIS,2009-06-29T19:00:00+10:00,80051305,63,4,,4,,35,Hisense Arena,2009-06-29T09:00:00Z,TAC,VIX,TAC,5,8,8005
+906,NSW Swifts,H,808,STE,Steel,complete,14,Southern Steel,Swifts,813,806,SOU,2009-07-04T14:00:00+12:00,80051401,55,4,,4,,48,ILT Stadium Southland,2009-07-04T02:00:00Z,SWI,STE,SWI,1,8,8005
+903,Central Pulse,H,804,VIX,Vixens,complete,14,Melbourne Vixens,Pulse,810,803,HIS,2009-07-04T14:00:00+10:00,80051402,80,4,,4,,39,Hisense Arena,2009-07-04T04:00:00Z,PUL,VIX,PUL,2,8,8005
+906,Avis WBOP Magic,H,801,THU,Thunderbirds,complete,14,Adelaide Thunderbirds,Magic,820,809,DHD,2009-07-05T14:00:00+09:30,80051403,54,4,,4,,35,Distinctive Homes Dome,2009-07-05T04:30:00Z,WBM,THU,WBM,3,8,8005
+903,Queensland Firebirds,H,810,FEV,Fever,complete,14,West Coast Fever,Firebirds,808,807,CHA,2009-07-06T18:00:00+08:00,80051405,52,4,,4,,54,Challenge Stadium,2009-07-06T10:00:00Z,FIR,FEV,FIR,5,8,8005
+907,Northern Mystics,H,802,TAC,Tactix,complete,14,Mainland Tactix,Mystics,806,805,CBS,2009-07-06T19:00:00+12:00,80051404,63,4,,4,,56,CBS Canterbury Arena,2009-07-06T07:00:00Z,MYS,TAC,MYS,4,8,8005

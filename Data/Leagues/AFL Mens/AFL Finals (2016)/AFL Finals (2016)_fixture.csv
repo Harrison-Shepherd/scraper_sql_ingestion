@@ -1,0 +1,10 @@
+homeSquadScore,awaySquadName,matchType,finalCode,homeSquadId,homeSquadShortCode,finalShortCode,awaySquadScore,homeSquadNickname,venueName,matchStatus,roundNumber,homeSquadName,utcStartTime,awaySquadCode,awaySquadNickname,venueId,homeSquadCode,awaySquadId,venueCode,awaySquadShortCode,localStartTime,matchId,matchNumber,sportId,fixtureId
+52,Western Bulldogs,F,ELIM,150,WCE,EF,99,Eagles,Domain Stadium,complete,1,West Coast Eagles,2016-09-08T10:10:00+00:00,WBFC,Bulldogs,70,WCFC,140,MCG,WB,2016-09-08T18:10:00+08:00,98350104,4,1,9835
+85,Hawthorn,F,QUAL,70,GEEL,QF,83,Cats,MCG,complete,1,Geelong Cats,2016-09-09T09:50:00+00:00,HFC,Hawks,40,GFC,80,MCG,HAW,2016-09-09T19:50:00+10:00,98350102,2,1,9835
+55,GWS Giants,F,QUAL,160,SYD,QF,91,Swans,ANZ Stadium,complete,1,Sydney Swans,2016-09-10T05:20:00+00:00,GWS,Giants,9,SYFC,1010,MCG,GWS,2016-09-10T15:20:00+10:00,98350101,1,1,9835
+141,North Melbourne,F,ELIM,10,ADEL,EF,79,Crows,Adelaide Oval,complete,1,Adelaide Crows,2016-09-10T09:40:00+00:00,NMFC,Kangaroos,6,AFC,100,MCG,NMFC,2016-09-10T19:10:00+09:30,98350103,3,1,9835
+84,Western Bulldogs,F,SEMI,80,HAW,SF,107,Hawks,MCG,complete,2,Hawthorn,2016-09-16T09:50:00+00:00,WBFC,Bulldogs,40,HFC,140,MCG,WB,2016-09-16T19:50:00+10:00,98350202,2,1,9835
+118,Adelaide Crows,F,SEMI,160,SYD,SF,82,Swans,SCG,complete,2,Sydney Swans,2016-09-17T09:25:00+00:00,AFC,Crows,60,SYFC,10,MCG,ADEL,2016-09-17T19:25:00+10:00,98350201,1,1,9835
+60,Sydney Swans,F,PRELIM,70,GEEL,PF,97,Cats,MCG,complete,3,Geelong Cats,2016-09-23T09:50:00+00:00,SYFC,Swans,40,GFC,160,MCG,SYD,2016-09-23T19:50:00+10:00,98350302,2,1,9835
+83,Western Bulldogs,F,PRELIM,1010,GWS,PF,89,Giants,Spotless Stadium,complete,3,GWS Giants,2016-09-24T07:15:00+00:00,WBFC,Bulldogs,43,GWS,140,MCG,WB,2016-09-24T17:15:00+10:00,98350301,1,1,9835
+67,Western Bulldogs,F,GRAND,160,SYD,GF,89,Swans,MCG,complete,4,Sydney Swans,2016-10-01T04:30:00+00:00,WBFC,Bulldogs,40,SYFC,140,MCG,WB,2016-10-01T14:30:00+10:00,98350401,1,1,9835

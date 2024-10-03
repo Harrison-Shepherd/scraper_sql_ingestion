@@ -1,0 +1,19 @@
+homeSquadScore,awaySquadName,matchType,finalCode,homeSquadId,homeSquadShortCode,finalShortCode,awaySquadScore,homeSquadNickname,venueName,matchStatus,roundNumber,homeSquadName,utcStartTime,awaySquadCode,awaySquadNickname,venueId,homeSquadCode,awaySquadId,venueCode,awaySquadShortCode,localStartTime,matchId,matchNumber,sportId,fixtureId
+24,Malawi,H,,880,AUS,,23,Australia,Hisense Arena,complete,1,Australia,2016-10-29T02:45:00Z,MAL,Malawi,810,AUS,882,HIS,MAL,2016-10-29T13:45:00+11:00,100130101,1,6,10013
+32,Jamaica,H,,884,RSA,,35,South Africa,Hisense Arena,complete,1,South Africa,2016-10-29T03:30:00Z,JAM,Jamaica,810,RSA,883,HIS,JAM,2016-10-29T14:30:00+11:00,100130102,2,6,10013
+36,England,H,,881,NZL,,35,New Zealand,Hisense Arena,complete,1,New Zealand,2016-10-29T04:15:00Z,ENG,England,810,NZL,885,HIS,ENG,2016-10-29T15:15:00+11:00,100130103,3,6,10013
+35,Jamaica,H,,880,AUS,,19,Australia,Hisense Arena,complete,1,Australia,2016-10-29T05:00:00Z,JAM,Jamaica,810,AUS,883,HIS,JAM,2016-10-29T16:00:00+11:00,100130104,4,6,10013
+43,Malawi,H,,885,ENG,,22,England,Hisense Arena,complete,1,England,2016-10-29T05:45:00Z,MAL,Malawi,810,ENG,882,HIS,MAL,2016-10-29T16:45:00+11:00,100130105,5,6,10013
+49,South Africa,H,,881,NZL,,20,New Zealand,Hisense Arena,complete,1,New Zealand,2016-10-29T06:30:00Z,RSA,South Africa,810,NZL,884,HIS,RSA,2016-10-29T17:30:00+11:00,100130106,6,6,10013
+12,Malawi,H,,883,JAM,,46,Jamaica,Hisense Arena,complete,1,Jamaica,2016-10-29T07:15:00Z,MAL,Malawi,810,JAM,882,HIS,MAL,2016-10-29T18:15:00+11:00,100130107,7,6,10013
+29,South Africa,H,,885,ENG,,29,England,Hisense Arena,complete,1,England,2016-10-29T08:00:00Z,RSA,South Africa,810,ENG,884,HIS,RSA,2016-10-29T19:00:00+11:00,100130108,8,6,10013
+32,New Zealand,H,,880,AUS,,29,Australia,Hisense Arena,complete,1,Australia,2016-10-29T08:45:00Z,NZL,New Zealand,810,AUS,881,HIS,NZL,2016-10-29T19:45:00+11:00,100130109,9,6,10013
+36,South Africa,H,,882,MAL,,21,Malawi,Hisense Arena,complete,1,Malawi,2016-10-30T01:15:00Z,RSA,South Africa,810,MAL,884,HIS,RSA,2016-10-30T12:15:00+11:00,100130110,10,6,10013
+26,England,H,,880,AUS,,20,Australia,Hisense Arena,complete,1,Australia,2016-10-30T02:00:00Z,ENG,England,810,AUS,885,HIS,ENG,2016-10-30T13:00:00+11:00,100130111,11,6,10013
+26,Jamaica,H,,881,NZL,,16,New Zealand,Hisense Arena,complete,1,New Zealand,2016-10-30T02:45:00Z,JAM,Jamaica,810,NZL,883,HIS,JAM,2016-10-30T13:45:00+11:00,100130112,12,6,10013
+31,South Africa,H,,880,AUS,,14,Australia,Hisense Arena,complete,1,Australia,2016-10-30T03:30:00Z,RSA,South Africa,810,AUS,884,HIS,RSA,2016-10-30T14:30:00+11:00,100130113,13,6,10013
+52,Malawi,H,,881,NZL,,27,New Zealand,Hisense Arena,complete,1,New Zealand,2016-10-30T04:15:00Z,MAL,Malawi,810,NZL,882,HIS,MAL,2016-10-30T15:15:00+11:00,100130114,14,6,10013
+19,England,H,,883,JAM,,32,Jamaica,Hisense Arena,complete,1,Jamaica,2016-10-30T05:00:00Z,ENG,England,810,JAM,885,HIS,ENG,2016-10-30T16:00:00+11:00,100130115,15,6,10013
+34,South Africa,H,,883,JAM,,33,Jamaica,Hisense Arena,complete,2,Jamaica,2016-10-30T06:45:00Z,RSA,South Africa,810,JAM,884,HIS,RSA,2016-10-30T17:45:00+11:00,100130201,1,6,10013
+32,Malawi,H,,885,ENG,,35,England,Hisense Arena,complete,2,England,2016-10-30T07:35:00Z,MAL,Malawi,810,ENG,882,HIS,MAL,2016-10-30T18:35:00+11:00,100130202,2,6,10013
+16,New Zealand,H,,880,AUS,,41,Australia,Hisense Arena,complete,2,Australia,2016-10-30T08:25:00Z,NZL,New Zealand,810,AUS,881,HIS,NZL,2016-10-30T19:25:00+11:00,100130203,3,6,10013

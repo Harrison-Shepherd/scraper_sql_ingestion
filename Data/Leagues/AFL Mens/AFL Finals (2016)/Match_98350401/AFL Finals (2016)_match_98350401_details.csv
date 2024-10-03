@@ -1,0 +1,45 @@
+marksInside50,handballs,clangers,hitoutsToAdvantage,penalty50sAgainst,disposals,goalAssists,kickEfficiency,kicksEffective,marksUncontested,tackles,freesFor,behinds,playerId,goals,inside50s,disposalEfficiency,blocks,squadId,marks,hitouts,kicks,marksContested,possessionsContested,freesAgainst,clearances,kicksIneffective,possessionsUncontested,shortDisplayName,jumperNumber,positionName,firstname,positionId,surname,displayName,positionCode,squadName,homeId,awayId,opponent,round,fixtureId,sportId,matchId
+0,3,2,0,0,15,0,75,9,4,3,0,0,295608,0,2,80,1,140,4,0,12,0,7,0,1,1,9,"Biggs, S",24,Interchange,Shane,21,Biggs,S.Biggs,INT,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,8,0,5,0,22,2,100,14,1,7,1,0,297373,0,3,91,0,140,1,9,14,0,11,0,6,0,11,"Bontempelli, M",4,Centre,Marcus,8,Bontempelli,M.Bontempelli,C,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,11,5,0,0,27,0,56,9,3,4,2,0,220010,0,1,59,1,140,4,0,16,1,11,2,1,5,12,"Boyd, M",5,Back Pocket,Matthew,3,Boyd,M.Boyd,BP,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+2,4,2,4,0,14,0,70,7,2,0,0,2,296367,3,4,71,0,140,8,14,10,6,9,0,0,2,6,"Boyd, T",17,Full Forward,Tom,14,Boyd,T.Boyd,FF,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,4,2,0,0,11,0,43,3,1,4,1,0,991939,1,1,46,0,140,1,0,7,0,3,0,0,2,7,"Cordy, Z",12,Centre Half Forward,Zaine,11,Cordy,Z.Cordy,CHF,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+2,13,1,0,0,23,0,50,5,3,8,3,0,291526,0,4,61,0,140,3,0,10,0,11,0,1,4,14,"Dahlhaus, L",6,Ruck Rover,Luke,17,Dahlhaus,L.Dahlhaus,RR,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,3,1,0,0,14,0,54,6,3,5,0,1,295136,0,1,64,0,140,3,0,11,0,4,0,1,4,11,"Daniel, C",35,Interchange,Caleb,22,Daniel,C.Daniel,INT,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+1,4,1,0,0,11,0,71,5,3,5,0,0,295712,3,3,82,0,140,3,0,7,0,2,0,0,1,9,"Dickson, T",29,Forward Pocket,Tory,13,Dickson,T.Dickson,FP,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,6,1,0,0,15,0,67,6,3,7,1,0,993834,0,3,67,0,140,3,0,9,0,7,1,2,3,9,"Dunkley, J",20,Half Forward Flank,Josh,10,Dunkley,J.Dunkley,HFF,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,4,2,0,0,9,0,80,4,3,1,1,0,295222,0,1,89,1,140,4,0,5,1,4,0,0,0,7,"Hamling, J",30,Full Back,Joel,2,Hamling,J.Hamling,FB,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,11,5,0,0,19,2,62,5,1,4,1,1,294557,0,4,74,1,140,1,0,8,0,9,0,2,1,12,"Hunter, L",7,Wing,Lachie,7,Hunter,L.Hunter,W,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,8,6,0,0,33,0,64,16,6,1,1,1,294101,0,9,70,0,140,7,0,25,1,9,1,0,4,21,"Johannisen, J",39,Back Pocket,Jason,1,Johannisen,J.Johannisen,BP,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,14,3,0,1,22,0,25,2,2,8,0,0,290799,0,4,41,0,140,2,0,8,0,15,0,8,6,7,"Liberatore, T",21,Rover,Tom,18,Liberatore,T.Liberatore,R,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,20,3,0,0,33,2,54,7,4,3,0,1,295467,0,5,67,1,140,5,0,13,1,14,0,4,4,19,"Macrae, J",11,Interchange,Jack,19,Macrae,J.Macrae,INT,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,10,3,0,1,18,0,62,5,2,5,4,1,996483,1,2,78,0,140,2,0,8,0,9,0,2,1,9,"McLean, T",16,Interchange,Toby,20,McLean,T.McLean,INT,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,13,2,0,0,15,0,50,1,1,4,2,0,250712,0,0,93,1,140,3,0,2,2,10,1,1,0,6,"Morris, D",38,Centre Half Back,Dale,5,Morris,D.Morris,CHB,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,13,3,0,0,25,0,42,5,2,4,1,0,271439,3,5,56,0,140,3,0,12,1,10,0,1,5,14,"Picken, L",42,Wing,Liam,9,Picken,L.Picken,W,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,3,1,0,0,5,0,100,2,1,0,0,0,291814,0,0,80,0,140,2,0,2,1,2,1,0,0,3,"Roberts, F",18,Half Back Flank,Fletcher,4,Roberts,F.Roberts,HBF,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,5,2,5,0,13,0,38,3,2,4,0,0,280012,0,4,54,2,140,5,17,8,3,8,0,2,3,4,"Roughead, J",23,Ruck,Jordan,16,Roughead,J.Roughead,RK,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,5,2,0,0,13,0,75,6,0,11,1,0,293847,1,1,69,0,140,1,0,8,1,8,1,3,1,5,"Smith, C",14,Forward Pocket,Clay,15,Smith,C.Smith,FP,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+1,4,5,0,0,12,1,38,3,1,2,0,1,293884,1,2,50,0,140,1,0,8,0,5,0,1,1,8,"Stringer, J",9,Half Forward Flank,Jake,12,Stringer,J.Stringer,HFF,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+0,6,1,0,0,13,0,86,6,7,2,1,0,281139,0,0,85,0,140,7,0,7,0,4,1,0,1,10,"Wood, E",10,Half Back Flank,Easton,6,Wood,E.Wood,HBF,Western Bulldogs,160,140,Sydney Swans,27,9835,1,98350401
+3,4,2,0,0,16,1,58,7,5,7,1,1,240399,1,3,62,0,160,8,0,12,3,8,1,0,4,12,"Franklin, L",23,Centre Half Forward,Lance,11,Franklin,L.Franklin,CHF,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,6,2,0,0,21,0,80,12,5,4,0,0,240072,0,1,86,0,160,9,0,15,4,8,0,0,1,12,"Grundy, H",39,Full Back,Heath,2,Grundy,H.Grundy,FB,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,15,4,0,0,22,0,29,2,2,6,0,0,290117,0,1,64,0,160,2,0,7,0,10,1,1,3,13,"Hannebery, D",4,Ruck Rover,Dan,17,Hannebery,D.Hannebery,RR,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,9,4,0,0,22,0,69,9,6,4,1,0,298539,0,5,64,0,160,6,0,13,0,7,1,3,2,15,"Heeney, I",5,Rover,Isaac,18,Heeney,I.Heeney,R,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,4,2,0,0,11,1,57,4,0,4,2,0,294036,1,2,64,0,160,0,0,7,0,3,0,1,2,8,"Hewett, G",29,Interchange,George,21,Hewett,G.Hewett,INT,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+2,12,1,0,0,22,3,50,5,4,3,1,2,240226,0,4,59,0,160,5,0,10,1,12,1,4,5,10,"Jack, K",15,Wing,Kieren,7,Jack,K.Jack,W,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,10,4,0,0,21,0,73,8,4,3,0,0,991988,0,1,86,0,160,4,0,11,0,8,3,3,2,14,"Jones, Z",10,Half Back Flank,Zak,4,Jones,Z.Jones,HBF,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+1,20,2,0,0,34,0,57,8,5,6,0,0,260382,3,6,68,0,160,5,0,14,0,17,0,6,4,18,"Kennedy, JP",12,Centre,Josh P.,8,Kennedy,J.Kennedy,C,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,5,1,0,1,9,0,25,1,1,6,0,0,270899,0,1,67,3,160,3,0,4,2,5,0,0,3,5,"Laidler, J",11,Centre Half Back,Jeremy,5,Laidler,J.Laidler,CHB,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,9,1,0,0,21,0,92,11,5,2,0,0,295342,0,3,86,1,160,5,0,12,0,6,1,0,1,17,"Lloyd, J",44,Back Pocket,Jake,1,Lloyd,J.Lloyd,BP,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+1,2,1,0,0,9,0,57,4,5,5,0,1,230140,0,0,67,0,160,5,0,7,0,1,0,2,3,8,"McGlynn, B",21,Forward Pocket,Ben,15,McGlynn,B.McGlynn,FP,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,6,2,0,1,14,0,100,8,2,3,0,0,230253,0,1,86,0,160,2,0,8,0,4,1,0,0,8,"McVeigh, J",3,Wing,Jarrad,9,McVeigh,J.McVeigh,W,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,9,3,0,0,15,0,83,5,3,5,0,0,993905,0,0,80,0,160,3,0,6,0,5,1,0,1,11,"Mills, C",14,Interchange,Callum,20,Mills,C.Mills,INT,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+1,13,5,0,0,26,0,69,9,4,13,0,0,291856,2,3,62,0,160,4,0,13,0,10,0,2,1,14,"Mitchell, T",6,Interchange,Tom,19,Mitchell,T.Mitchell,INT,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,8,2,7,0,13,0,80,4,3,2,1,0,298144,0,1,85,1,160,3,21,5,0,7,2,2,1,7,"Naismith, S",35,Ruck,Sam,16,Naismith,S.Naismith,RK,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,7,3,0,0,15,1,38,3,2,5,1,1,996765,0,3,60,0,160,2,0,8,0,9,0,0,2,7,"Papley, T",41,Forward Pocket,Tom,13,Papley,T.Papley,FP,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+1,10,5,1,0,19,1,56,5,1,9,1,0,290778,1,2,68,0,160,1,4,9,0,9,3,5,3,10,"Parker, L",26,Half Forward Flank,Luke,12,Parker,L.Parker,HFF,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,7,3,0,0,24,0,94,16,10,4,0,0,290307,0,1,96,1,160,11,0,17,1,4,2,0,1,19,"Rampe, D",24,Half Back Flank,Dane,6,Rampe,D.Rampe,HBF,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+1,4,2,0,0,10,0,50,3,4,0,0,0,293739,0,1,70,0,160,4,0,6,0,2,0,0,1,8,"Richards, X",42,Interchange,Xavier,22,Richards,X.Richards,INT,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,2,4,0,0,5,0,33,1,1,6,0,0,291357,1,0,40,0,160,2,0,3,1,3,3,0,1,3,"Rohan, G",16,Half Forward Flank,Gary,10,Rohan,G.Rohan,HFF,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+0,3,4,0,1,13,0,60,6,2,2,0,0,250338,1,0,69,1,160,4,0,10,2,4,0,0,1,9,"Smith, N",40,Back Pocket,Nick,3,Smith,N.Smith,BP,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401
+1,6,2,4,0,10,0,50,2,1,2,0,1,270742,0,2,80,1,160,3,17,4,2,7,0,2,1,4,"Tippett, K",8,Full Forward,Kurt,14,Tippett,K.Tippett,FF,Sydney Swans,160,140,Western Bulldogs,27,9835,1,98350401

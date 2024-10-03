@@ -1,0 +1,21 @@
+rebounds,penalties,gain,offensiveRebounds,blocked,passes,goalAssists,tossUpWin,centrePassReceives,obstructionPenalties,feeds,playerId,goals,offsides,badPasses,defensiveRebounds,breaks,blocks,badHands,missedGoalTurnover,squadId,startingPositionCode,goalAttempts,goalAttempts3,deflections,goalAttempts2,goalAttempts1,contactPenalties,goalMisses1,goalMisses2,quartersPlayed,goalMisses3,minutesPlayed,turnovers,pickups,goals1,currentPositionCode,goals3,intercepts,goals2,shortDisplayName,firstname,surname,displayName,squadName,powerPlayPeriod,homeId,awayId,opponent,round,fixtureId,sportId,matchId
+2,0,0,2,0,4,2,0,0,0,4,80052,1,0,0,0,0,0,0,0,880,GS,7,3,2,4,0,0,0,3,4,3,16,2,0,0,GS,0,0,1,"Thwaites, C",Caitlin,Thwaites,C.Thwaites,Australia,4,880,881,New Zealand,2,10013,6,100130203
+4,1,0,4,0,7,3,0,2,1,7,80072,5,0,0,0,0,0,0,0,880,GA,13,4,0,6,3,0,0,4,4,4,16,5,0,3,GA,0,0,2,"Pettitt, S",Susan,Pettitt,S.Pettitt,Australia,4,880,881,New Zealand,2,10013,6,100130203
+0,0,0,0,0,12,1,0,0,0,6,80574,0,0,0,0,0,0,0,0,880,C,0,0,1,0,0,0,0,0,4,0,9,0,0,0,-,0,0,0,"Hadley, P",Paige,Hadley,P.Hadley,Australia,4,880,881,New Zealand,2,10013,6,100130203
+0,3,1,0,0,0,0,0,1,1,0,80343,0,0,0,0,0,0,1,0,880,GD,0,0,0,0,0,2,0,0,4,0,20,2,2,0,GD,0,1,0,"Bruce, C",Courtney,Bruce,C.Bruce,Australia,4,880,881,New Zealand,2,10013,6,100130203
+1,9,3,0,0,0,0,0,2,5,0,80440,0,0,0,1,0,0,0,0,880,GK,0,0,2,0,0,4,0,0,4,0,23,1,1,0,GK,0,2,0,"Shimmin, K",Kate,Shimmin,K.Shimmin,Australia,4,880,881,New Zealand,2,10013,6,100130203
+1,2,0,1,0,2,0,0,4,1,2,80067,2,0,0,0,0,0,1,0,880,-,7,0,0,3,4,1,2,3,4,0,11,5,1,2,-,0,0,0,"Bell, E",Erin,Bell,E.Bell,Australia,4,880,881,New Zealand,2,10013,6,100130203
+1,2,0,1,0,14,0,0,0,0,10,991901,0,0,0,0,0,0,0,0,880,-,0,0,0,0,0,2,0,0,4,0,8,1,1,0,C,0,0,0,"Moloney, K",Kate,Moloney,K.Moloney,Australia,4,880,881,New Zealand,2,10013,6,100130203
+0,0,1,0,0,10,0,0,0,0,5,992954,0,0,0,0,0,0,0,0,880,-,0,0,1,0,0,0,0,0,4,0,9,0,0,0,-,0,1,0,"Nevins, C",Caitlyn,Nevins,C.Nevins,Australia,4,880,881,New Zealand,2,10013,6,100130203
+1,1,0,1,0,3,1,0,1,0,3,993463,4,0,0,0,0,0,0,0,880,-,5,0,0,2,3,1,0,1,3,0,8,0,0,3,-,0,0,1,"Tippett, G",Gretel,Tippett,G.Tippett,Australia,4,880,881,New Zealand,2,10013,6,100130203
+0,5,0,0,0,1,0,0,5,2,1,80577,0,0,0,0,0,0,0,0,880,-,0,0,0,0,0,3,0,0,4,0,8,0,0,0,-,0,0,0,"Weston, J",Jo,Weston,J.Weston,Australia,4,880,881,New Zealand,2,10013,6,100130203
+0,3,0,0,0,3,2,0,2,1,3,80100,9,0,0,0,0,0,0,0,881,GS,17,11,0,4,2,2,0,2,4,6,22,4,0,2,GS,5,0,2,"Tutaia, M",Maria,Tutaia,M.Tutaia,New Zealand,2,880,881,Australia,2,10013,6,100130203
+0,2,0,0,0,4,2,0,5,0,4,80287,3,0,0,0,0,0,0,0,881,GA,5,0,3,5,0,2,0,2,4,0,15,2,0,0,-,0,0,3,"Selby-Rickit, TP",Te Paea,Selby-Rickit,TP.Selby-Rickit,New Zealand,2,880,881,Australia,2,10013,6,100130203
+0,0,0,0,0,12,2,0,0,0,9,80477,0,0,0,0,0,0,0,0,881,C,0,0,0,0,0,0,0,0,4,0,10,0,0,0,-,0,0,0,"Crampton, G",Gina,Crampton,G.Crampton,New Zealand,2,880,881,Australia,2,10013,6,100130203
+2,8,4,0,0,0,0,0,3,4,0,80478,0,0,0,2,0,0,0,0,881,GD,0,0,2,0,0,4,0,0,4,0,18,1,1,0,GD,0,2,0,"Purvis, S",Storm,Purvis,S.Purvis,New Zealand,2,880,881,Australia,2,10013,6,100130203
+0,4,0,0,0,7,1,0,0,2,6,80582,0,0,0,0,0,0,0,0,881,GK,0,0,1,0,0,2,0,0,4,0,12,0,0,0,-,0,0,0,"Karaka, P",Phoenix,Karaka,P.Karaka,New Zealand,2,880,881,Australia,2,10013,6,100130203
+0,0,0,0,0,0,0,0,0,0,0,1003470,0,0,0,0,0,0,0,0,881,-,0,0,0,0,0,0,0,0,1,0,2,0,0,0,GA,0,0,0,"Hume, J",Jamie,Hume,J.Hume,New Zealand,2,880,881,Australia,2,10013,6,100130203
+1,3,1,0,0,0,0,0,0,1,0,993041,0,1,0,1,0,0,0,0,881,-,0,0,2,0,0,2,0,0,4,0,14,0,1,0,GK,0,0,0,"Jury, K",Kelly,Jury,K.Jury,New Zealand,2,880,881,Australia,2,10013,6,100130203
+0,3,0,0,0,13,1,0,0,2,6,994117,0,0,0,0,0,0,0,0,881,-,0,0,0,0,0,1,0,0,4,0,11,0,0,0,C,0,0,0,"Sinclair, S",Samantha,Sinclair,S.Sinclair,New Zealand,2,880,881,Australia,2,10013,6,100130203
+0,2,0,0,0,0,0,0,2,1,0,80225,0,0,0,0,0,0,0,0,881,-,0,0,0,0,0,1,0,0,4,0,12,1,1,0,-,0,0,0,"Watson, J",Jane,Watson,J.Watson,New Zealand,2,880,881,Australia,2,10013,6,100130203
+1,0,0,1,0,2,0,0,0,0,2,80710,5,0,0,0,0,0,0,0,881,-,5,0,0,0,5,0,0,0,4,0,13,0,0,5,-,0,0,0,"Wilson, M",Maia,Wilson,M.Wilson,New Zealand,2,880,881,Australia,2,10013,6,100130203

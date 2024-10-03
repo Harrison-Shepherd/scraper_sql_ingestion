@@ -1,0 +1,2 @@
+periodSecs,awaySquadName,matchType,homeSquadId,homeSquadShortCode,homeSquadNickname,matchStatus,roundNumber,homeSquadName,awaySquadNickname,venueId,awaySquadId,venueCode,localStartTime,matchId,homeSquadScore,period,finalCode,periodCompleted,finalShortCode,awaySquadScore,venueName,utcStartTime,awaySquadCode,homeSquadCode,awaySquadShortCode,matchNumber,sportId,fixtureId
+900,England,H,9490,AUS,Australia,complete,1,Australia,England,804,9492,QBA,2022-10-30T17:15:00+11:00,119960101,73,4,,4,,27,Qudos Bank Arena,2022-10-30T06:15:00Z,ENG,AUS,ENG,1,10,11996
